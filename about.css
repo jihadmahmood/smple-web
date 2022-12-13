@@ -1,0 +1,26 @@
+body{
+	background-image: url("v.i//p88.jpg");
+	background-repeat: no-repeat;
+	height: 60vh;
+	background-size: cover;
+	background-position: center;
+}
+h1{
+	text-align: center;
+	color:  goldenrod;
+	text-decoration-line: underline ;
+	text-decoration-color: wheat;
+	text-decoration-style: solid;
+	text-decoration-thickness: 0.70px;
+}
+
+pre{
+	color: lightgoldenrodyellow;
+	font-family: sans-serif;
+	font-size: 25px;
+	text-align: center;
+}
+h3{
+	color: darkseagreen;
+	text-align: center;
+}
